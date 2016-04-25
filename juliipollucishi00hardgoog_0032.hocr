@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./juliipollucishi00hardgoog_0032.png"; bbox 0 0 2817 4734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 72 1577 1217 2168">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 72 1577 1217 2168">
+     <span class='ocr_line' id='line_1_1' title="bbox 72 1577 1217 1648; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 72 1638 75 1648; x_wconf 77' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 592 1577 663 1648; x_wconf 78' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_3' title='bbox 777 1625 780 1630; x_wconf 95' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1214 1609 1217 1614; x_wconf 96' lang='lat'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 92 1685 1213 1924; baseline -0.029 -13"><span class='ocrx_word' id='word_1_5' title='bbox 92 1685 619 1911; x_wconf 66' lang='lat' dir='ltr'>,ssfflLmfflcA</span> <span class='ocrx_word' id='word_1_6' title='bbox 662 1739 1131 1924; x_wconf 65' lang='lat' dir='ltr'>memma</span> <span class='ocrx_word' id='word_1_7' title='bbox 1211 1874 1213 1878; x_wconf 14' lang='lat' dir='ltr'><em>J</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 434 1997 903 2168; baseline 0.011 -44"><span class='ocrx_word' id='word_1_8' title='bbox 434 2031 484 2124; x_wconf 85' lang='lat' dir='ltr'><strong><em>M</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 499 2031 656 2154; x_wconf 76' lang='lat' dir='ltr'>QNA</span> <span class='ocrx_word' id='word_1_10' title='bbox 673 1997 856 2168; x_wconf 69' lang='lat' dir='ltr'><strong>c&#39;ffl‘L</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 885 2127 903 2144; x_wconf 75' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1414 4734">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1414 4734">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1414 4734; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1414 4734; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
